@@ -1,0 +1,12 @@
+Pantera/1/4
+Oso/1/4
+Tigre/1/4
+Perro/3/3
+Gato/3/3
+Cerdo/3/3
+Ballena/4/1
+Delfin/4/1
+Tiburon/4/1
+Antilope/2/2
+Leon/2/4
+Cebra/2/2
